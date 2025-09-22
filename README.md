@@ -82,6 +82,11 @@ This tool is for entertainment purposes only. Results may cause emotional damage
 
 Found a bug or want to add more roasting algorithms? Pull requests welcome!
 
+
+## 📜 Credits
+Designed and Developed by Azizbek Arzikulov, and Prithwis Das
+
+
 ## 📄 License
 
 MIT License - Feel free to roast responsibly.
