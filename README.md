@@ -84,7 +84,7 @@ Found a bug or want to add more roasting algorithms? Pull requests welcome!
 
 
 ## 📜 Credits
-Designed and Developed by Azizbek Arzikulov, and Prithwis Das
+Designed and Developed by Azizbek Arzikulov
 
 
 ## 📄 License
